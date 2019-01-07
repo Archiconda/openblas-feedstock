@@ -18,6 +18,7 @@ Current build status
 
 [![Linux,OSX](https://img.shields.io/circleci/project/github/conda-forge/openblas-feedstock/master.svg?label=Linux,OSX)](https://circleci.com/gh/conda-forge/openblas-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/openblas-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/openblas-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c32d855c05bae0700d33020/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/openblas-feedstock)
 
 Current release info
 ====================

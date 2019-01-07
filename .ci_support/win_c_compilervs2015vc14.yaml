@@ -5,7 +5,7 @@ channel_sources:
 channel_targets:
 - conda-forge main
 curl:
-- '7.59'
+- '7.63'
 fortran_compiler:
 - flang
 perl:
